@@ -1,0 +1,28 @@
+*{
+     background-color: rgb(149, 217, 226);
+}
+.box1{
+     /* padding: 20px; 
+    margin-left: 400px;
+    display: flex;
+    button{
+        background-color: rgb(81, 182, 182);
+        color: rgb(223, 231, 231);
+        height: 50px;
+        width:400px;
+    } */
+        text-align: center;
+    }
+.box{
+    background-color: azure;
+    display: flex;
+    gap: 10px;
+    flex-wrap: wrap;
+    justify-content: space-around;
+     button{
+        height: 250px;
+        width: 250px;
+        gap: 50px;
+        
+    } 
+}
